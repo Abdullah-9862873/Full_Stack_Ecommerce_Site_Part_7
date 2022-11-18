@@ -2449,7 +2449,7 @@ const Footer = () => {
 
 export default Footer;
 ```
-**Step 121:** Type the following code inside **Footer.css*\
+**Step 121:** Type the following code inside **Footer.css** \
 ```
 footer {
     margin-top: 10vmax;
